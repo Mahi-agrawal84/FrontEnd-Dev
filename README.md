@@ -1,13 +1,13 @@
-🌍 Web Development Learning Journal
+#🌍 Web Development Learning Journal
 
 🧠 A personal journey documenting my daily progress, projects, and reflections while mastering web development — from HTML to CSS, Bootstrap, and beyond! 🚀
 
-🗓️ Day 1 – Introduction to Web Development
+##🗓️ Day 1 – Introduction to Web Development
 
 📅 Date: 09/10/2025
 📘 Topic: Introduction to Web Development & HTML Basics
 
-💡 What I Learned
+###💡 What I Learned
 
 🌐 3-Tier Architecture: Frontend, Backend & Database
 
@@ -17,20 +17,20 @@
 
 🔍 Concepts: Localhost, Ports & IP-based Rendering
 
-🧪 Task
+###🧪 Task
 
 🧾 Create a timetable using the <table> tag and preview it using Live Server.
 
-🔮 Next Up
+###🔮 Next Up
 
 Deep dive into HTML Elements — Attributes, Layouts, Lists, Dropdowns & more!
 
-🗓️ Day 2 – Advanced HTML & Forms
+##🗓️ Day 2 – Advanced HTML & Forms
 
 📅 Date: 10/10/2025
 📘 Topic: HTML Elements & Form Handling
 
-💡 What I Learned
+###💡 What I Learned
 
 🧩 Block vs Inline Elements
 
@@ -42,20 +42,20 @@ Deep dive into HTML Elements — Attributes, Layouts, Lists, Dropdowns & more!
 
 🧾 Built forms with various input types
 
-🧪 Task
+###🧪 Task
 
 📝 Create a user form using text, email, password, radio, and checkbox inputs.
 
-🔮 Next Up
+###🔮 Next Up
 
 Start CSS — Styling fundamentals, selectors, and color systems 🎨
 
-🗓️ Day 3 – Introduction to CSS
+##🗓️ Day 3 – Introduction to CSS
 
 📅 Date: 13/10/2025
 📘 Topic: CSS Basics & Styling Techniques
 
-💡 What I Learned
+###💡 What I Learned
 
 🎨 CSS Syntax & Structure
 
@@ -69,20 +69,20 @@ Start CSS — Styling fundamentals, selectors, and color systems 🎨
 
 ⚙️ Positioning: relative, absolute, fixed
 
-🧪 Task
+###🧪 Task
 
 💻 Build a webpage using internal & external CSS, applying colors, margins, and positioning.
 
-🔮 Next Up
+###🔮 Next Up
 
 Learn Flexbox and Grid layouts for responsive page structures 🧱
 
-🗓️ Day 4 – Flexbox, Grid & Advanced CSS
+##🗓️ Day 4 – Flexbox, Grid & Advanced CSS
 
 📅 Date: 30/10/2025
 📘 Topic: CSS Flexbox, Grid & Visual Design Enhancements
 
-💡 What I Learned
+###💡 What I Learned
 
 🧱 Flexbox & Grid for modern layouts
 
@@ -92,20 +92,20 @@ Learn Flexbox and Grid layouts for responsive page structures 🧱
 
 🎯 Used pseudo-classes & combinators
 
-🧪 Task
+###🧪 Task
 
 🧮 Create a calculator layout using CSS Grid, gradients & box shadows.
 
-🔮 Next Up
+###🔮 Next Up
 
 Learn Responsive Design, Media Queries, and CSS Animations ⚡
 
-🗓️ Day 5 – Animations & Transitions
+##🗓️ Day 5 – Animations & Transitions
 
 📅 Date: 31/10/2025
 📘 Topic: CSS Pseudo-classes, Animations & Transformations
 
-💡 What I Learned
+###💡 What I Learned
 
 🎨 Pseudo-classes (hover, focus, active)
 
@@ -117,20 +117,20 @@ Learn Responsive Design, Media Queries, and CSS Animations ⚡
 
 🧩 Box-sizing: border-box for layout control
 
-🧪 Task
+###🧪 Task
 
 🌀 Animate an element diagonally using transition + transform properties.
 
-🔮 Next Up
+###🔮 Next Up
 
 Explore Responsive Design, Filters, and Media Queries 📱
 
-🗓️ Day 6 – Responsive CSS & Media Queries
+##🗓️ Day 6 – Responsive CSS & Media Queries
 
 📅 Date: 03/11/2025
 📘 Topic: Filters, Responsive Design & Media Queries
 
-💡 What I Learned
+###💡 What I Learned
 
 🌐 Responsive Design Principles
 
@@ -142,20 +142,20 @@ Explore Responsive Design, Filters, and Media Queries 📱
 
 💡 Tested layouts on multiple devices
 
-🧪 Task
+###🧪 Task
 
 🧭 Build a responsive card UI (image, title, text) with hover transitions.
 
-🔮 Next Up
+###🔮 Next Up
 
 Begin Bootstrap – mastering grids, utilities & prebuilt components ⚙️
 
-🗓️ Day 7 – Introduction to Bootstrap
+##🗓️ Day 7 – Introduction to Bootstrap
 
 📅 Date: 05/11/2025
 📘 Topic: Bootstrap Basics, Grid System & Utilities
 
-💡 What I Learned
+###💡 What I Learned
 
 ⚡ Bootstrap overview & purpose
 
@@ -167,20 +167,20 @@ Begin Bootstrap – mastering grids, utilities & prebuilt components ⚙️
 
 🧩 Utility classes for spacing & text
 
-🧪 Task
+###🧪 Task
 
 🌐 Build a responsive portfolio using Bootstrap grid & utilities.
 
-🔮 Next Up
+###🔮 Next Up
 
 Deep dive into Bootstrap components – Carousel, Progress Bars, and more.
 
-🗓️ Day 8 – Bootstrap Components & Revision
+##🗓️ Day 8 – Bootstrap Components & Revision
 
 📅 Date: 06/11/2025
 📘 Topic: Bootstrap Components & Responsive Design Revision
 
-💡 What I Learned
+###💡 What I Learned
 
 🎨 Revised CSS Selectors & Layouts
 
@@ -192,20 +192,20 @@ Deep dive into Bootstrap components – Carousel, Progress Bars, and more.
 
 💡 Combined CSS + Bootstrap for modern UI
 
-🧪 Task
+###🧪 Task
 
 🎯 Build a responsive portfolio with Carousel and Progress Bar to showcase skills.
 
-🔮 Next Up
+###🔮 Next Up
 
 Start JavaScript — adding interactivity & logic to web pages ⚡
 
-🌟 Summary of My Journey (So Far)
+###🌟 Summary of My Journey (So Far)
 🌸 Skill	🌱 Level	🧰 Tools Used
 HTML	✅ Beginner to Intermediate	VS Code, Live Server
 CSS	✅ Intermediate	Chrome DevTools
 Bootstrap	✅ Beginner	Bootstrap 5, Grid System
 Responsive Design	🚀 Learning	Media Queries, Flexbox, Grid
-💭 Reflection
+###💭 Reflection
 
 “Every line of code brings me one step closer to creating something meaningful. This journey isn’t about perfection — it’s about progress.” ✨
