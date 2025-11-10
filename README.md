@@ -13,7 +13,7 @@ Topic: Introduction to Web Development & HTML Basics
 - Concepts: Localhost, Ports & IP Rendering  
 
 ### Task
-> Create a timetable using the <table> tag and preview it using Live Server.
+> Create a timetable using the <table> tag.
 
 ---
 
