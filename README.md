@@ -1,7 +1,5 @@
 # Web Development Learning Journal
 
-> A personal journey documenting my daily progress, projects, and reflections while mastering web development — from HTML to CSS, Bootstrap, and beyond!
-
 ---
 
 ## 🗓️ **Day 1 – Introduction to Web Development**
