@@ -3,8 +3,8 @@
 ---
 
 ## 🗓 *Day 1 – Introduction to Web Development*
-Date: 09/10/2025 
-Topic: Introduction to Web Development & HTML Basics
+*Date:* 09/10/2025 
+*Topic:* Introduction to Web Development & HTML Basics
 
 ### What I Learned
 - *3-Tier Architecture:* Frontend, Backend & Database  
