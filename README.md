@@ -1,6 +1,6 @@
 # Web Development Learning Journal
 
-> 🧠 *A personal journey documenting my daily progress, projects, and reflections while mastering web development — from HTML to CSS, Bootstrap, and beyond!* 🚀  
+> A personal journey documenting my daily progress, projects, and reflections while mastering web development — from HTML to CSS, Bootstrap, and beyond!
 
 ---
 
@@ -8,7 +8,7 @@
 Date:09/10/2025 
 Topic:Introduction to Web Development & HTML Basics
 
-### 💡 What I Learned
+### What I Learned
 - **3-Tier Architecture:** Frontend, Backend & Database  
 - **HTML Basics:** Headings, Paragraphs, Tables, Images  
 - **Setup:** Installed **VS Code** & used **Live Server**  
@@ -17,7 +17,7 @@ Topic:Introduction to Web Development & HTML Basics
 ### Task
 > Create a **timetable** using the `<table>` tag and preview it using **Live Server**.
 
-### 🔮 Next Up
+### Next Up
 > Deep dive into **HTML Elements** — Attributes, Layouts, Lists, Dropdowns & more!
 
 ---
@@ -26,7 +26,7 @@ Topic:Introduction to Web Development & HTML Basics
 Date:10/10/2025
 Topic:HTML Elements & Form Handling
 
-### 💡 What I Learned
+### What I Learned
 - Block vs Inline Elements  
 - Attributes, Headings, Paragraphs & Lists  
 - Layouts with Tables & Dropdowns  
@@ -37,7 +37,7 @@ Topic:HTML Elements & Form Handling
 > Create a **user form** using text, email, password, radio, and checkbox inputs.
 
 ### Next Up
-> Start **CSS** — Styling fundamentals, selectors, and color systems 🎨
+> Start **CSS** — Styling fundamentals, selectors, and color systems 
 
 ---
 
@@ -45,7 +45,7 @@ Topic:HTML Elements & Form Handling
 Date:13/10/2025  
 Topic:CSS Basics & Styling Techniques
 
-### 💡 What I Learned
+### What I Learned
 - CSS Syntax & Structure  
 - Inline, Internal & External CSS  
 - Selectors & Color Properties  
@@ -57,7 +57,7 @@ Topic:CSS Basics & Styling Techniques
 > Build a **webpage** using **internal & external CSS**, applying colors, margins, and positioning.
 
 ### Next Up
-> Learn **Flexbox** and **Grid** layouts for responsive page structures 🧱
+> Learn **Flexbox** and **Grid** layouts for responsive page structures
 
 ---
 
@@ -72,7 +72,7 @@ Topic:CSS Flexbox, Grid & Visual Design Enhancements
 - Used pseudo-classes & combinators  
 
 ### Task
-> 🧮 Create a **calculator layout** using **CSS Grid**, gradients & box shadows.
+> Create a **calculator layout** using **CSS Grid**, gradients & box shadows.
 
 ### Next Up
 > Learn **Responsive Design**, **Media Queries**, and **CSS Animations** 
@@ -83,7 +83,7 @@ Topic:CSS Flexbox, Grid & Visual Design Enhancements
 Date:31/10/2025
 Topic:CSS Pseudo-classes, Animations & Transformations
 
-### 💡 What I Learned
+### What I Learned
 - Pseudo-classes (hover, focus, active)  
 - Custom Tooltips with `position` & `visibility`  
 - Animations & Transitions  
@@ -91,10 +91,10 @@ Topic:CSS Pseudo-classes, Animations & Transformations
 - Box-sizing: border-box for layout control  
 
 ### Task
-> 🌀 Animate an element **diagonally** using **transition + transform** properties.
+> Animate an element **diagonally** using **transition + transform** properties.
 
 ### Next Up
-> Explore **Responsive Design**, **Filters**, and **Media Queries** 📱
+> Explore **Responsive Design**, **Filters**, and **Media Queries**
 
 ---
 
@@ -102,7 +102,7 @@ Topic:CSS Pseudo-classes, Animations & Transformations
 Date:03/11/2025*  
 Topic:Filters, Responsive Design & Media Queries
 
-### 💡 What I Learned
+### What I Learned
 -  Responsive Design Principles  
 -  CSS Filters (blur, brightness, contrast)  
 -  Media Queries with breakpoints  
@@ -110,10 +110,10 @@ Topic:Filters, Responsive Design & Media Queries
 -  Tested layouts on multiple devices  
 
 ### Task
-> 🧭 Build a **responsive card UI** (image, title, text) with hover transitions.
+> Build a **responsive card UI** (image, title, text) with hover transitions.
 
 ### Next Up
-> Begin **Bootstrap** – mastering grids, utilities & prebuilt components ⚙️
+> Begin **Bootstrap** – mastering grids, utilities & prebuilt components
 
 ---
 
@@ -121,7 +121,7 @@ Topic:Filters, Responsive Design & Media Queries
 Date:05/11/2025
 Topic:Bootstrap Basics, Grid System & Utilities
 
-### 💡 What I Learned
+### What I Learned
 - Bootstrap overview & purpose  
 - Containers, Rows & Columns  
 - Bootstrap Grid (12-column)  
@@ -129,7 +129,7 @@ Topic:Bootstrap Basics, Grid System & Utilities
 - Utility classes for spacing & text  
 
 ### Task
-> 🌐 Build a **responsive portfolio** using **Bootstrap grid & utilities**.
+> Build a **responsive portfolio** using **Bootstrap grid & utilities**.
 
 ### Next Up
 > Deep dive into **Bootstrap components** – Carousel, Progress Bars, and more.
@@ -140,7 +140,7 @@ Topic:Bootstrap Basics, Grid System & Utilities
 Date:06/11/2025
 Topic:Bootstrap Components & Responsive Design Revision
 
-### 💡 What I Learned
+### What I Learned
 - Revised CSS Selectors & Layouts  
 - Used Bootstrap **Carousel** & **Progress Bar**  
 - Improved Responsive Layouts  
@@ -151,22 +151,22 @@ Topic:Bootstrap Components & Responsive Design Revision
 > Build a **responsive portfolio** with **Carousel** and **Progress Bar** to showcase skills.
 
 ### Next Up
-> Start **JavaScript** — adding interactivity & logic to web pages ⚡
+> Start **JavaScript** — adding interactivity & logic to web pages
 
 ---
 
-## 🌟 **Summary of My Journey (So Far)**
+## **Summary of My Journey (So Far)**
 
-| 🌸 Skill | 🌱 Level | 🧰 Tools Used |
+| Skill | Level | Tools Used |
 |:----------|:-----------|:--------------|
-| HTML | ✅ Beginner → Intermediate | VS Code, Live Server |
-| CSS | ✅ Intermediate | Chrome DevTools |
-| Bootstrap | ✅ Beginner | Bootstrap 5 |
-| Responsive Design | 🚀 Learning | Media Queries, Flexbox, Grid |
+| HTML | Beginner → Intermediate | VS Code, Live Server |
+| CSS | Intermediate | Chrome DevTools |
+| Bootstrap | Beginner | Bootstrap 5 |
+| Responsive Design | Learning | Media Queries, Flexbox, Grid |
 
 ---
 
-## 💭 Reflection
+## Reflection
 
 > “Every line of code brings me one step closer to creating something meaningful.  
-> This journey isn’t about perfection — it’s about *progress*.” ✨
+> This journey isn’t about perfection — it’s about *progress*.”
