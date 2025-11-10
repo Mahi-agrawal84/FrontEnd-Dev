@@ -5,8 +5,8 @@
 ---
 
 ## 🗓️ **Day 1 – Introduction to Web Development**
-Date:09/10/2025 
-Topic:Introduction to Web Development & HTML Basics
+*Date:* 09/10/2025 
+*Topic:* Introduction to Web Development & HTML Basics
 
 ### What I Learned
 - **3-Tier Architecture:** Frontend, Backend & Database  
@@ -17,14 +17,11 @@ Topic:Introduction to Web Development & HTML Basics
 ### Task
 > Create a **timetable** using the `<table>` tag and preview it using **Live Server**.
 
-### Next Up
-> Deep dive into **HTML Elements** — Attributes, Layouts, Lists, Dropdowns & more!
-
 ---
 
 ## 🗓️ **Day 2 – Advanced HTML & Forms**
-Date:10/10/2025
-Topic:HTML Elements & Form Handling
+*Date:* 10/10/2025
+*Topic:* HTML Elements & Form Handling
 
 ### What I Learned
 - Block vs Inline Elements  
@@ -36,14 +33,11 @@ Topic:HTML Elements & Form Handling
 ### Task
 > Create a **user form** using text, email, password, radio, and checkbox inputs.
 
-### Next Up
-> Start **CSS** — Styling fundamentals, selectors, and color systems 
-
 ---
 
 ## 🗓️ **Day 3 – Introduction to CSS**
-Date:13/10/2025  
-Topic:CSS Basics & Styling Techniques
+*Date:* 13/10/2025  
+*Topic:* CSS Basics & Styling Techniques
 
 ### What I Learned
 - CSS Syntax & Structure  
@@ -56,14 +50,11 @@ Topic:CSS Basics & Styling Techniques
 ### Task
 > Build a **webpage** using **internal & external CSS**, applying colors, margins, and positioning.
 
-### Next Up
-> Learn **Flexbox** and **Grid** layouts for responsive page structures
-
 ---
 
 ## 🗓️ **Day 4 – Flexbox, Grid & Advanced CSS**
-Date:30/10/2025
-Topic:CSS Flexbox, Grid & Visual Design Enhancements
+*Date:* 30/10/2025
+*Topic:* CSS Flexbox, Grid & Visual Design Enhancements
 
 ### What I Learned
 - Flexbox & Grid for modern layouts  
@@ -74,14 +65,11 @@ Topic:CSS Flexbox, Grid & Visual Design Enhancements
 ### Task
 > Create a **calculator layout** using **CSS Grid**, gradients & box shadows.
 
-### Next Up
-> Learn **Responsive Design**, **Media Queries**, and **CSS Animations** 
-
 ---
 
 ## 🗓️ **Day 5 – Animations & Transitions**
-Date:31/10/2025
-Topic:CSS Pseudo-classes, Animations & Transformations
+*Date:* 31/10/2025
+*Topic:* CSS Pseudo-classes, Animations & Transformations
 
 ### What I Learned
 - Pseudo-classes (hover, focus, active)  
@@ -93,14 +81,11 @@ Topic:CSS Pseudo-classes, Animations & Transformations
 ### Task
 > Animate an element **diagonally** using **transition + transform** properties.
 
-### Next Up
-> Explore **Responsive Design**, **Filters**, and **Media Queries**
-
 ---
 
 ## 🗓️ **Day 6 – Responsive CSS & Media Queries**
-Date:03/11/2025*  
-Topic:Filters, Responsive Design & Media Queries
+*Date:* 03/11/2025*  
+*Topic:* Filters, Responsive Design & Media Queries
 
 ### What I Learned
 -  Responsive Design Principles  
@@ -112,14 +97,11 @@ Topic:Filters, Responsive Design & Media Queries
 ### Task
 > Build a **responsive card UI** (image, title, text) with hover transitions.
 
-### Next Up
-> Begin **Bootstrap** – mastering grids, utilities & prebuilt components
-
 ---
 
 ## 🗓️ **Day 7 – Introduction to Bootstrap**
-Date:05/11/2025
-Topic:Bootstrap Basics, Grid System & Utilities
+*Date:* 05/11/2025
+*Topic:* Bootstrap Basics, Grid System & Utilities
 
 ### What I Learned
 - Bootstrap overview & purpose  
@@ -131,14 +113,11 @@ Topic:Bootstrap Basics, Grid System & Utilities
 ### Task
 > Build a **responsive portfolio** using **Bootstrap grid & utilities**.
 
-### Next Up
-> Deep dive into **Bootstrap components** – Carousel, Progress Bars, and more.
-
 ---
 
 ## 🗓️ **Day 8 – Bootstrap Components & Revision**
-Date:06/11/2025
-Topic:Bootstrap Components & Responsive Design Revision
+*Date:* 06/11/2025
+*Topic:* Bootstrap Components & Responsive Design Revision
 
 ### What I Learned
 - Revised CSS Selectors & Layouts  
@@ -149,9 +128,6 @@ Topic:Bootstrap Components & Responsive Design Revision
 
 ### Task
 > Build a **responsive portfolio** with **Carousel** and **Progress Bar** to showcase skills.
-
-### Next Up
-> Start **JavaScript** — adding interactivity & logic to web pages
 
 ---
 
