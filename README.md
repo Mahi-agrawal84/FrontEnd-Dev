@@ -8,7 +8,7 @@
 
 ### What I Learned
 - 3-Tier Architecture: Frontend, Backend, and Database  
-- HTML Basics: Headings, Paragraphs, Tables, Images  
+- HTML Basics: Headings, Paragraphs, Tables, and Images  
 - Setup: Installed VS Code and used Live Server  
 - Concepts: Localhost, Ports, and IP Rendering
 
@@ -24,9 +24,9 @@ Create a timetable using the `<table>` tag and preview it using Live Server.
 ### What I Learned
 - Block vs Inline Elements  
 - Attributes, Headings, Paragraphs, and Lists  
-- Layouts with Tables and Dropdowns  
-- Used the `<marquee>` tag  
-- Built forms with various input types
+- Layouts using Tables and Dropdowns  
+- Used the `<marquee>` tag for scrolling text  
+- Created forms with different input types  
 
 ### Task
 Create a user form using text, email, password, radio, and checkbox inputs.
@@ -42,8 +42,8 @@ Create a user form using text, email, password, radio, and checkbox inputs.
 - Inline, Internal, and External CSS  
 - Selectors and Color Properties  
 - Box Model: Margin, Padding, Border, and Content  
-- Display Types: inline, block, inline-block  
-- Positioning: relative, absolute, fixed
+- Display Types: inline, block, and inline-block  
+- Positioning: relative, absolute, and fixed  
 
 ### Task
 Build a webpage using internal and external CSS, applying colors, margins, and positioning.
@@ -55,10 +55,10 @@ Build a webpage using internal and external CSS, applying colors, margins, and p
 **Topic:** CSS Flexbox, Grid, and Visual Design Enhancements
 
 ### What I Learned
-- Flexbox and Grid for modern layouts  
-- Deepened Box Model understanding  
-- Added gradients, shadows, and transforms  
-- Used pseudo-classes and combinators
+- Layout design using Flexbox and Grid  
+- Deepened understanding of the Box Model  
+- Applied gradients, shadows, and transforms  
+- Used pseudo-classes and combinators for advanced styling  
 
 ### Task
 Create a calculator layout using CSS Grid, gradients, and box shadows.
@@ -70,11 +70,11 @@ Create a calculator layout using CSS Grid, gradients, and box shadows.
 **Topic:** CSS Pseudo-classes, Animations, and Transformations
 
 ### What I Learned
-- Pseudo-classes (hover, focus, active)  
-- Custom Tooltips with position and visibility  
-- Animations and Transitions  
-- Transform: translate, rotate, scale  
-- Box-sizing: border-box for layout control
+- Pseudo-classes like hover, focus, and active  
+- Created custom tooltips using position and visibility  
+- Added animations and transitions for smooth effects  
+- Used transform properties like translate, rotate, and scale  
+- Learned about box-sizing and layout adjustments  
 
 ### Task
 Animate an element diagonally using transition and transform properties.
@@ -86,11 +86,11 @@ Animate an element diagonally using transition and transform properties.
 **Topic:** Filters, Responsive Design, and Media Queries
 
 ### What I Learned
-- Responsive Design Principles  
-- CSS Filters: blur, brightness, contrast  
-- Media Queries with breakpoints  
-- Flexible Units: %, vh, vw, em, rem  
-- Tested layouts on multiple devices
+- Principles of Responsive Web Design  
+- CSS Filters: blur, brightness, and contrast  
+- Implemented Media Queries with breakpoints  
+- Used flexible units like %, vh, vw, em, and rem  
+- Tested layouts on multiple screen sizes  
 
 ### Task
 Build a responsive card UI (image, title, text) with hover transitions.
@@ -102,14 +102,14 @@ Build a responsive card UI (image, title, text) with hover transitions.
 **Topic:** Bootstrap Basics, Grid System, and Utilities
 
 ### What I Learned
-- Bootstrap overview and purpose  
-- Containers, Rows, and Columns  
-- Bootstrap Grid (12-column system)  
-- Mobile-first design  
-- Utility classes for spacing and text
+- Bootstrap overview and advantages  
+- Containers, Rows, and Columns for layout  
+- Bootstrap 12-column Grid System  
+- Applied mobile-first design principles  
+- Used utility classes for spacing, text, and background  
 
 ### Task
-Build a responsive portfolio using Bootstrap grid and utilities.
+Build a responsive portfolio using Bootstrap grid and utility classes.
 
 ---
 
@@ -118,14 +118,53 @@ Build a responsive portfolio using Bootstrap grid and utilities.
 **Topic:** Bootstrap Components and Responsive Design Revision
 
 ### What I Learned
-- Revised CSS Selectors and Layouts  
+- Revised CSS selectors and responsive layouts  
 - Used Bootstrap Carousel and Progress Bar  
-- Improved Responsive Layouts  
-- Applied Utility Classes: margins, padding, display  
-- Combined CSS and Bootstrap for modern UI
+- Improved layout designs with Bootstrap components  
+- Combined custom CSS and Bootstrap for better UI  
 
 ### Task
-Build a responsive portfolio with Carousel and Progress Bar to showcase skills.
+Build a responsive portfolio page using Carousel and Progress Bar to showcase your skills.
+
+---
+
+## Day 9 – Introduction to JavaScript
+**Date:** 10/11/2025  
+**Topic:** Introduction to JavaScript, Types, Operators, Logical Operators, Math, and Control Structures
+
+### What I Learned
+- Introduction to JavaScript and how it adds interactivity to web pages  
+- JavaScript Data Types: String, Number, Boolean, Object, Undefined, and Null  
+- Operators: Arithmetic, Assignment, Comparison, and Logical  
+- Math Object: Practiced using Math.round(), Math.floor(), and Math.random()  
+- Control Structures: if, else if, else, switch, for, while, and do-while  
+- Logical Operations: Used &&, ||, and ! to handle logic efficiently  
+
+### Task
+Write a JavaScript program that takes two numbers as input and performs:
+- Addition, Subtraction, Multiplication, and Division  
+- Compares if the first number is greater than the second  
+- Displays results dynamically using alert() or console.log()
+
+---
+
+## Day 10 – JavaScript Scope, Events, Strings, and Arrays
+**Date:** 12/11/2025  
+**Topic:** JavaScript Scope, Events, Strings, and Arrays
+
+### What I Learned
+- Scope: Understood variable visibility using var, let, and const  
+- Events: Learned event handling using onclick, onchange, and onmouseover  
+- Strings: Explored methods like concat(), toUpperCase(), toLowerCase(), slice(), and substring()  
+- Math Operations: Used mathematical functions and expressions in scripts  
+- Arrays: Created and manipulated arrays using built-in methods  
+
+### Task
+Practice JavaScript programs to:
+- Demonstrate different variable scopes  
+- Handle button click events dynamically  
+- Perform string manipulations (uppercase, lowercase, slicing)  
+- Create and update arrays with various operations  
 
 ---
 
@@ -136,11 +175,11 @@ Build a responsive portfolio with Carousel and Progress Bar to showcase skills.
 | HTML | Beginner to Intermediate | VS Code, Live Server |
 | CSS | Intermediate | Chrome DevTools |
 | Bootstrap | Beginner | Bootstrap 5 |
+| JavaScript | Beginner | Browser Console, VS Code |
 | Responsive Design | Learning | Media Queries, Flexbox, Grid |
 
 ---
 
 ## Reflection
-
-"Every line of code brings me one step closer to creating something meaningful.  
-This journey isn’t about perfection — it’s about progress."
+Every day of coding brings a better understanding of how the web works.  
+This journey is not about being perfect but about improving with every concept I learn.
