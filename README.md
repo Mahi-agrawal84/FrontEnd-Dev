@@ -168,6 +168,27 @@ Practice JavaScript programs to:
 
 ---
 
+## Day 11 – JavaScript ES Features, DOM, Hoisting, Functions, and Arrow Functions
+**Date:** 13/11/2025  
+**Topic:** JavaScript ES Features — DOM, Hoisting, Functions, and Arrow Functions
+
+### What I Learned
+- DOM: Understood how to access and manipulate HTML elements using getElementById and querySelector  
+- Hoisting: Learned how JavaScript moves declarations to the top of their scope  
+- Functions: Practiced writing regular functions  
+- Arrow Functions: Learned modern and cleaner syntax for writing functions  
+- Built two DOM-based projects:
+  - Counter Application  
+  - Image Resize Application  
+
+### Task
+Recreate both projects covered in class:
+- Counter App using DOM methods and event listeners  
+- Image Resize App using width and height manipulation  
+- Add clear comments in the JavaScript file explaining each step  
+
+---
+
 ## Summary of My Journey (So Far)
 
 | Skill | Level | Tools Used |
