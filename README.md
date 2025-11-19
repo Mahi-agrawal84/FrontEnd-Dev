@@ -133,18 +133,19 @@ Build a responsive portfolio page using Carousel and Progress Bar to showcase yo
 **Topic:** Introduction to JavaScript, Types, Operators, Logical Operators, Math, and Control Structures
 
 ### What I Learned
-- Introduction to JavaScript and how it adds interactivity to web pages  
+- How JavaScript adds interactivity to web pages  
 - JavaScript Data Types: String, Number, Boolean, Object, Undefined, and Null  
 - Operators: Arithmetic, Assignment, Comparison, and Logical  
-- Math Object: Practiced using Math.round(), Math.floor(), and Math.random()  
-- Control Structures: if, else if, else, switch, for, while, and do-while  
-- Logical Operations: Used &&, ||, and ! to handle logic efficiently  
+- Math Object: round(), floor(), random()  
+- Control Structures: if, switch, loops  
+- Logical Operations: &&, ||, !
 
 ### Task
-Write a JavaScript program that takes two numbers as input and performs:
-- Addition, Subtraction, Multiplication, and Division  
-- Compares if the first number is greater than the second  
-- Displays results dynamically using alert() or console.log()
+Write a JavaScript program that:
+- Takes two numbers as input  
+- Performs arithmetic operations  
+- Compares values  
+- Displays results using alert() or console.log()
 
 ---
 
@@ -153,18 +154,18 @@ Write a JavaScript program that takes two numbers as input and performs:
 **Topic:** JavaScript Scope, Events, Strings, and Arrays
 
 ### What I Learned
-- Scope: Understood variable visibility using var, let, and const  
-- Events: Learned event handling using onclick, onchange, and onmouseover  
-- Strings: Explored methods like concat(), toUpperCase(), toLowerCase(), slice(), and substring()  
-- Math Operations: Used mathematical functions and expressions in scripts  
-- Arrays: Created and manipulated arrays using built-in methods  
+- Scope using var, let, and const  
+- Event handling: onclick, onchange, onmouseover  
+- String methods: concat(), toUpperCase(), slice(), substring()  
+- Arrays and built-in methods for manipulation  
+- Used mathematical functions in scripts  
 
 ### Task
 Practice JavaScript programs to:
 - Demonstrate different variable scopes  
-- Handle button click events dynamically  
-- Perform string manipulations (uppercase, lowercase, slicing)  
-- Create and update arrays with various operations  
+- Handle button click events  
+- Perform string manipulations  
+- Create and update arrays
 
 ---
 
@@ -173,26 +174,49 @@ Practice JavaScript programs to:
 **Topic:** JavaScript ES Features — DOM, Hoisting, Functions, and Arrow Functions
 
 ### What I Learned
-- DOM: Understood how to access and manipulate HTML elements using getElementById and querySelector  
-- Hoisting: Learned how JavaScript moves declarations to the top of their scope  
-- Functions: Practiced writing regular functions  
-- Arrow Functions: Learned modern and cleaner syntax for writing functions  
-- Built two DOM-based projects:
-  - Counter Application  
-  - Image Resize Application  
+- DOM manipulation using getElementById and querySelector  
+- Hoisting concepts  
+- Regular and arrow functions  
+- Built DOM-based projects: Counter App and Image Resize App  
 
 ### Task
-Recreate both projects covered in class:
-- Counter App using DOM methods and event listeners  
-- Image Resize App using width and height manipulation  
-- Add clear comments in the JavaScript file explaining each step  
+Recreate both projects with comments:
+- Counter App  
+- Image Resize App  
+
+---
+
+## Day 12 – JavaScript Classes, Objects and Responsive Sidebar
+**Date:** 17/11/2025  
+**Topic:** JavaScript ES Classes, Objects, Hoisting Recap and Responsive Hamburger Menu
+
+### What I Learned
+- Defined classes, objects, constructors, and methods  
+- Created custom objects and modified properties  
+- Revised hoisting concepts  
+- Built a responsive hamburger icon and sidebar menu using media queries  
+
+### Task
+Build a Hamburger Menu and Sidebar Navigation using:
+- Media Queries  
+- DOM Manipulation  
+- Responsive Layout Techniques  
+
+Ensure that the sidebar works smoothly on mobile screens.
+
+### What’s Next
+Next session will cover:
+- HTML Forms with JavaScript  
+- JavaScript Regular Expressions (RegExp)
+
+This will help in user input handling and validation.
 
 ---
 
 ## Summary of My Journey (So Far)
 
 | Skill | Level | Tools Used |
-|:------|:------|:-----------|
+|--------|--------|------------|
 | HTML | Beginner to Intermediate | VS Code, Live Server |
 | CSS | Intermediate | Chrome DevTools |
 | Bootstrap | Beginner | Bootstrap 5 |
