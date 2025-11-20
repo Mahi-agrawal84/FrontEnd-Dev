@@ -1,5 +1,0 @@
-//DOM
-// document object model
-
-
-
