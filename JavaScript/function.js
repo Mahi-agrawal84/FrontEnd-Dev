@@ -11,3 +11,11 @@
 // console.log(Math.sign(-1))//-1
 
 
+// //2.Anonymous Function
+setTimeout(function(){
+    console.log("2 sec",2000)
+})
+
+setTimeout(function(){
+    console.log("2 sec");
+},1000)

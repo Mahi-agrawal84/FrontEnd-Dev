@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+             <div class="box">
+                <h1>DOM (Document Object Model)</h1>
+             </div>
+
+             <div class="para-box">
+                <p id="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+                <p>Illum laboriosam vitae ipsa iste voluptates quasi rem ratione natus fuga. Dolorum quas provident recusandae cumque assumenda ullam ipsam repudiandae debitis corporis.</p>
+             </div>
+             <button id="btn"> click me</button>
+
+            <div class="container">
+
+            </div>
+
+
+             <script>
+                const box1 = document.querySelector('.box');
+                console.log(box1);
+                box1.style.backgroundColor = 'red';
+
+                const p = document.querySelector(".para-box #para");
+                console.log(p);
+
+
+                const btn = document.querySelector("#btn");
+
+                let fun = function(){
+                    alert("Button clicked");
+                }
+
+                btn.addEventListener('click', fun);
+
+                const conatainer  = document.querySelector('.container');
+
+                const pe1 = document.createElement('p');
+                pe1.textContent = "Hello";
+                pe1.style.color = 'green';
+                conatainer.appendChild(pe1);
+
+
+
+
+
+             </script>
+                
+</body>
+</html>
