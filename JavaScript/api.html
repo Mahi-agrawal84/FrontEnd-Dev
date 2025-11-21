@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>API Data (JSON Format)</h2>
+    <pre id="output"></pre>
+
+   <script>
+
+    // fetch('https://fakestoreapi.com/products')
+    //         .then(res=>res.json())            
+    //         .then(json=>console.log(json));
+
+    // async function getData(){
+    //     const data = await fetch('https://fakestoreapi.com/products');
+    //     const readData = await data.json();
+    //     console.log(readData);
+    // }
+
+    // getData();
+
+    
+        async function getData(){
+            const res = await fetch('https://fakestoreapi.com/products');
+            const data = await res.json();
+
+            const d = document.getElementById("output");
+            d.textContent = JSON.stringify(data, null, 2);
+            // pretty print JSON data
+            //adding css to this data
+            d.style.backgroundColor = "#f4f4f4";
+            d.style.padding = "10px";
+            d.style.border = "1px solid #ddd";
+        }
+
+    getData();
+    
+   </script> 
+</body>
+</html>
